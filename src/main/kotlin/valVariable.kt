@@ -17,6 +17,6 @@ fun main() {
     varVariable = 78 // pemberian nilai kedua ke varVariable
     println("Pemberian nilai kedua pada varVAriable")
     val phi = 3.14
-    phi = 2.5 // ketika nilai val phi di ubah untuk kedua kalinya maka akan terdapat pesan kesalahan agar kita menggunakan var variable
+  //  phi = 2.5 // ketika nilai val phi di ubah untuk kedua kalinya maka akan terdapat pesan kesalahan agar kita menggunakan var variable
 
 }
