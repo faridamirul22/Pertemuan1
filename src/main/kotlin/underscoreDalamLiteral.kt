@@ -2,7 +2,6 @@
 //Selain memiliki literal konstan Kotlin juga dapat menggunakan underscore dalam literal, untuk
 //memberikan kemudahan pada pengembang dalam membaca dan menulis kode program
 
-
 fun main(args: Array<String>) {
     val oneMillion = 1_000_000
     val creditCardNumber = 1234_5678_9012_3456L
